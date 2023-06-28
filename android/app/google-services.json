@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109608680084",
+    "project_id": "login-95c6f",
+    "storage_bucket": "login-95c6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109608680084:android:e50e87605e2bb704929281",
+        "android_client_info": {
+          "package_name": "com.example.fnews_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109608680084-pqnesj0fffra7lbp3v21mkmeclhc3qd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBKwYEUMzj3JVUmHVKcKps7gV7ySSnMoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109608680084-pqnesj0fffra7lbp3v21mkmeclhc3qd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
